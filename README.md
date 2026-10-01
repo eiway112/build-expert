@@ -46,7 +46,7 @@
 
 - `SKILL.md` — 技能本体：三道关（该不该做 / 怎么走 / 怎么不翻车）+ 九环节流水线 + 常见误区
 - `references/knowledge-architecture.md` — 分层架构、判据字段、层级判定与时效戳档位的填空模板
-- `references/assertion-patterns.md` — **15 条断言模式**（每条含判据、防什么、怎么套、误用对照）
+- `references/assertion-patterns.md` — **17 条断言模式**（每条含判据、防什么、怎么套、误用对照）
 - `references/checklists.md` — **三张检查表**：开工前 8 问 / 动手改前 3 问 / 收工前 10 条
 
 ## 一句话提醒
