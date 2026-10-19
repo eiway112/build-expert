@@ -69,6 +69,7 @@
 - `references/knowledge-architecture.md` — 分层架构、判据字段、层级判定与时效戳档位的填空模板
 - `references/assertion-patterns.md` — **18 条断言模式**（每条含判据、防什么、怎么套、误用对照）
 - `references/checklists.md` — **三张检查表**：开工前 8 问 / 动手改前 3 问 / 收工前 10 条
+- `references/acceptance-review.md` — **验收追问四问**（进化 / 对照 / 专业 / 降级）：拿到现成专家包或技能合集时，判它「可当依据 / 只当参考 / 不可用」
 
 ## 一句话提醒
 
